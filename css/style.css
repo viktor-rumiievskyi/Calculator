@@ -20,7 +20,7 @@ white #fdfdfd
 	box-shadow: 10px 10px 10px #4f4f4f;
 }
 
-.calk-screen {
+.calc-screen {
 	height: 114px;
 	padding: 10px;
 	display: grid;
@@ -29,7 +29,7 @@ white #fdfdfd
 	margin-bottom: 10px;
 }
 
-.calk-screen p {
+.calc-screen p {
 	text-align: right;
 	font-size: 50px;
 	margin: 0;

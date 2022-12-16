@@ -63,7 +63,7 @@ document.querySelector('.buttons').onclick = (event) => {
 				case "+":
 					a = (+a) + (+b);
 					break;
-				case "+":
+				case "-":
 					a = a - b;
 					break;
 				case "*":
